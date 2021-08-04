@@ -5,6 +5,8 @@ I'm Lucas Limeira
 - 🔭 I’m currently working on [Thoughtworks](https://www.thoughtworks.com/) as a Software Developer Consultant
 - 📫 How to reach me: [lucas@limeira.me](mailto:lucas@limeira.me)
 
+![Snake animation](https://github.com/limeiralucas/limeiralucas/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
