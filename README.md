@@ -3,7 +3,7 @@
 I'm Lucas Limeira
 
 - 🔭 I’m currently working on [Thoughtworks](https://www.thoughtworks.com/) as a Software Developer Consultant
-- 📫 How to reach me: [lucas@limeira.me](mailto:lucas@limeira.me)
+- 📫 How to reach me: [lucas@limeira.dev](mailto:lucas@limeira.me)
 - Talks
   - [OkiDocker: Iniciando com Containers (Cloudia Talks #01)](https://www.youtube.com/watch?v=-ryyg6fIFdM&t=419s)
 
