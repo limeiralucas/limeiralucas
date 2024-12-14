@@ -2,7 +2,6 @@
 
 I'm Lucas Limeira
 
-- 🔭 I’m currently working on [Alice](https://alice.com.br/) as a Software Engineer
 - 📫 How to reach me: [lucas@limeira.dev](mailto:lucas@limeira.dev)
 - Talks
   - [OkiDocker: Iniciando com Containers (Cloudia Talks #01)](https://www.youtube.com/watch?v=-ryyg6fIFdM&t=419s)
